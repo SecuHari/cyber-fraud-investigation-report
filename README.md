@@ -62,7 +62,7 @@ This report documents a coordinated online job scam involving fake tasks, paymen
 | Platform | Action |
 |----------|--------|
 | Telegram | Reported to @notoscam bot & abuse@telegram.org |
-| Cybercrime | Complaint Submitted (ID: `22707250025623`) |
+| Cybercrime | Complaint Submitted (ID: `227***********`) |
 | Victim | Alert message sent to real person via LinkedIn |
 
 ---
