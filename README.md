@@ -1,5 +1,8 @@
 # cyber-fraud-investigation-report
 “Cybersecurity OSINT-based investigation of a fake job scam involving identity misuse on Telegram and WhatsApp.”
+> ⚠️ **Disclaimer**  
+> This report is based on publicly available and ethically gathered information. The intent is solely to document and raise awareness about a potential online scam. No personal data was illegally accessed or shared.
+
 # 🛡️ Cyber Fraud Investigation Report – Identity Misuse in Job Scam
 
 ## 🧾 Objective
