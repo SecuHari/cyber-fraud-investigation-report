@@ -1,87 +1,66 @@
-# cyber-fraud-investigation-report
-“Cybersecurity OSINT-based investigation of a fake job scam involving identity misuse on Telegram and WhatsApp.”
+# 🚨 Cyber Fraud Alert – Identity Misuse in Fake Remote Job Scam
+
+## 🧾 Summary
+This repository documents a coordinated online scam involving fake part-time job offers circulated via WhatsApp and Telegram. It includes screenshots, links, and verified communication that show how scammers are misusing the identity of a real professional to build false trust.
+
+---
+
+## 📌 Key Details
+
+- **WhatsApp Scammer Number**: `+91 98876 48345` (Alias: Veduprejapat / Sneha Verma)
+- **Telegram ID Used**: `@Sharmila12580` (Alias: M. Sharmila – Receptionist)
+- **Scam Group**: `Prime Unit & 83709 👑` [Join Link Redacted for Safety]
+- **Fake Company Claimed**: Ameriprise Financial (Address likely spoofed)
+- **Misused Identity**: Poonam Aarohi, Senior Recruiter at Opendoor (LinkedIn public profile)
+- **Task Type**: Opening URLs, submitting screenshots with a fake "payment" promise
+- **Victim Engagement**: Contact initiated via WhatsApp, followed by redirection to Telegram group
+
+---
+
+## ⚙️ Method of Detection
+
+I used ethical OSINT (Open Source Intelligence) techniques to:
+- Monitor scammer behavior
+- Verify identity misuse
+- Detect location/IP via secure redirection
+- Match scam patterns across multiple Telegram and WhatsApp identities
+
+---
+
+## 📂 Supporting Evidence
+
+This repository includes:
+- Screenshots of conversations (Telegram + WhatsApp)
+- Link references
+- Sample task messages
+- Metadata extracted from shared media
+- Report acknowledgment ID from National Cyber Crime Portal (India)
+
+---
+
+## 📣 Action Taken
+
+- ✅ Report submitted to [cybercrime.gov.in](https://www.cybercrime.gov.in)
+- ✅ Telegram scam profile reported
+- ✅ Identity holder informed via LinkedIn (Ms. Poonam Aarohi)
+- ✅ Awareness message circulated among peers
+
+---
+
+## 📜 Disclaimer
+
 > ⚠️ **Disclaimer**  
-> This report is based on publicly available and ethically gathered information. The intent is solely to document and raise awareness about a potential online scam. No personal data was illegally accessed or shared.
-
-# 🛡️ Cyber Fraud Investigation Report – Identity Misuse in Job Scam
-
-## 🧾 Objective
-This report documents a coordinated online job scam involving fake tasks, payment traps, and impersonation of a real recruiter. This OSINT-based investigation aims to raise awareness and assist law enforcement.
+> This repository is for **educational, documentation, and awareness purposes only**. All information was collected using ethical methods. No personal data was hacked or accessed illegally.  
+> If you are the affected person and want anything removed or corrected, feel free to contact me.
 
 ---
 
-## 📅 Timeline of Incident
+## 🙋 Author
 
-### 🔹 **1. Initial Contact – WhatsApp**
-- Scammer: `+91 98876 48345` (Name used: Ved Pr / Sneha Verma)
-- Offered fake job with ₹5K–₹20K per day
-
-### 🔹 **2. Redirected to Telegram**
-- Telegram ID: `@Sharmila12580`  
-- Name Used: M. Sharmila (Receptionist)
-
-### 🔹 **3. Fake Group Tasks**
-- Telegram Group: [Prime Unit & 83709 👑](https://t.me/+fDvMteVszH0wMWRl)  
-- Tasks included clicking map links, submitting screenshots
-
-### 🔹 **4. Identity Theft**
-- Used real person’s identity:  
-  `Poonam Aarohi – Senior Recruiter, Opendoor`  
-- Impersonated through photos & name to gain trust
+**Hareesh Kumar**  
+Cybersecurity Research Enthusiast  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hareesh-kumar-02045a339)  
 
 ---
 
-## 🔍 Technical Discovery
-
-| Detail           | Value                         |
-|------------------|-------------------------------|
-| IP Traced        | `157.48.195.231`              |
-| ISP              | Reliance Jio (Hyderabad)      |
-| Method Used      | Ethical OSINT & link tracking |
-| UPI Transaction  | From: MRS SALIMA BEGUM        |
-
----
-
-## 📸 Screenshots & Proof
-- WhatsApp and Telegram chat logs
-- Group task screenshots
-- UPI transaction confirmation
-- Reverse image identity proof
-
----
-
-## 📂 Files Attached
-- `Telegram_Scam_Chat.png`
-- `Complaint_Detail_22707250025623.pdf`
-- `Screenshot_2025-07-15.png`
-
----
-
-## ⚠️ Action Taken
-
-| Platform | Action |
-|----------|--------|
-| Telegram | Reported to @notoscam bot & abuse@telegram.org |
-| Cybercrime | Complaint Submitted (ID: `227***********`) |
-| Victim | Alert message sent to real person via LinkedIn |
-
----
-
-## 👨‍💻 Author
-
-**Name:** Hareesh Kumar  
-**Email:** hareeshrajput54107@gmail.com  
-**Role:** Cybersecurity Researcher  
-**Tools Used:** Ethical OSINT, IP Logging, Metadata
-
----
-
-## 🛑 Disclaimer
-This report is for educational and awareness purposes. No confidential data was leaked or harmed during the investigation.
-
----
-
-## 📬 Contact for Collaboration
-Want to collaborate on scam-tracking, OSINT research or reporting?  
-📩 [Email Me](mailto:hareeshrajput54107@gmail.com)
-
+> 📢 **Stay Alert. Report Scams. Help Others Stay Safe.**
