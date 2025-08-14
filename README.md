@@ -46,6 +46,7 @@ This repository includes:
 - ✅ Awareness message circulated among peers
 
 ---
+![](emp.png)
 
 ## 📜 Disclaimer
 
